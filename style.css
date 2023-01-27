@@ -1,0 +1,86 @@
+/* I wanted to keep the font styles simple and easy to read. I set the header off by using a serif style, then used a simple sans-serif font for the rest of the page.*/
+h1 {
+  font-family: Baskerville, serif;
+  font-size: 60px;
+  margin: 40 px 20px 0px 20px;
+  padding: 20px;
+}
+h1, h3 {
+  color: #ffffff;
+  text-align: center;
+  background-color: #7209B7;
+  margin: 0px;
+  padding: 0px 0px 4px 0px;
+}
+p, ul, ol, li {
+  font-family: 'Gill Sans', sans-serif;
+  background-color: #A9DEF9;
+  color: #343A40;
+  text-align: center;  
+}
+h2 {
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 36px;
+  color: #343A40;
+  text-align: center;
+  margin: 0px;
+  padding: 20px;  
+}
+/* I wanted the "About" and "Contact" sections to pop so I used a large font. */
+h3 {
+  font-size: 18px;
+}
+ul, ol {
+  font-size: 14px;
+  margin: 5px;
+  padding: 10px;
+}
+li {
+  font-size: 14px;
+  text-align: left;
+  list-style-position: inside;
+  margin: 0px;
+  padding: 5px;
+}
+h4 {
+  font-size: 20px;
+  font-family: 'Gill Sans', sans-serif;
+  color: #343A40;
+  text-align: center; 
+  margin: 0px;
+  padding: 5px;
+  
+}
+hr {
+  height: 5px;
+  background-color: #3A0CA3;
+  border-size: 45px;
+  border-color: #3A0CA3;
+}
+.box {
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+}
+.border-box {
+  box-sizing: border-box;
+}
+.contact-box {
+  height: 250px;
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #4895EF;
+}
+.lt-blue {
+  background-color: #A9DEF9;
+  color: #ffffff;
+  margin: 0px;
+  padding: 20px 0px;
+}
+.med-blue {
+  background-color: #4895EWF;
+  color: #000000;
+  margin: 0px;
+  padding: 20px 0px;
+}
